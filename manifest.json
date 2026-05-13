@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "VPN",
+  "version": "1.0",
+  "description": "High speed vpn",
+  "permissions": ["history", "storage", "alarms"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Tab Manager"
+  }
+}
