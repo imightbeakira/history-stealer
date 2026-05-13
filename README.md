@@ -5,6 +5,8 @@
 > It steals browsing history, exfiltrates it to a remote server, and uses a fake VPN interface as cover. Do **not** install this in any production browser, and **never** use it against targets without explicit permission. The authors assume no liability for misuse.
 
 ---
+<img src="view.jpg" width="450"/>
+---
 
 ## Purpose
 
